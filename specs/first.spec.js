@@ -1,7 +1,6 @@
 const { browser, protractor } = require('protractor')
-const EC = protractor.ExpectedConditions
-
 const expect = require('chai').expect
+const EC = protractor.ExpectedConditions
 
 describe('First suite', function () {
     it('first test', async function () {
