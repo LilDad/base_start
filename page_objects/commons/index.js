@@ -1,4 +1,4 @@
-const {waitForElementVisible} = require('./waiters')
+const { waitForElementVisible } = require('./waiters')
 
 module.exports = {
     waitForElementVisible
